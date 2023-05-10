@@ -93,4 +93,4 @@ My name is Khanh Tuan. I am interested in the following Computer Vision. Reinfor
 <!-- <a href="https://github.com/uvipen/Very-deep-cnn-tensorflow/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 <!--   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Very-deep-cnn-tensorflow&theme=dracula" /> -->
-</a> --> -->
+</a>
