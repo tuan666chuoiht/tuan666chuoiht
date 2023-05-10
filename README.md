@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Khanh Tuan. I am interested in the following Computer Vision. Reinforcement Learning.<br>
+My name is Khanh Tuan. I am interested in the following Computer Vision.<br>
 ## 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/kh%C3%A1nh-tu%E1%BA%A5n-280696248/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/tuan666chuoiht)
