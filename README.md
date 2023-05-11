@@ -13,10 +13,10 @@ My name is Khanh Tuan. I am interested in the following Computer Vision.<br>
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tuan666chuoiht&repo=Emotion_Detection&theme=radical" />
 </a>
 
-<!-- <a href="https://github.com/uvipen/ASCII-generator/"> -->
+<a href="https://github.com/tuan666chuoiht/Cifar10">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-<!--   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=ASCII-generator&theme=merko" /> -->
-<!-- </a> -->
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tuan666chuoiht&repo=Cifar10&theme=merko" />
+</a>
 
 <!-- <a href="https://github.com/uvipen/Super-mario-bros-A3C-pytorch/"> -->
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
