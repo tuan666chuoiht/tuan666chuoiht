@@ -25,10 +25,10 @@ My name is Khanh Tuan. I am interested in the following Computer Vision.<br>
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tuan666chuoiht&repo=Rock-paper-scissors-with-mediapipe&theme=gruvbox" />
 </a>
 
-<!-- <a href="https://github.com/uvipen/Super-mario-bros-PPO-pytorch/"> -->
+<a href="https://github.com/tuan666chuoiht/Fashion-mnist">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-<!--   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Super-mario-bros-PPO-pytorch&theme=dark" /> -->
-<!-- </a> -->
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tuan666chuoiht&repo=Fashion-mnist&theme=dark" />
+</a>
 
 <!-- <a href="https://github.com/uvipen/Flappy-bird-deep-Q-learning-pytorch/"> -->
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
