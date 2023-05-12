@@ -20,7 +20,7 @@ My name is Khanh Tuan. I am interested in the following Computer Vision.<br>
 
 <a href="https://github.com/tuan666chuoiht/Rock-paper-scissors-with-mediapipe">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tuan666chuoiht&repo=Rock-paper-scissors-with-mediapipe" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tuan666chuoiht&repo=Rock-paper-scissors-with-mediapipe&theme=gruvbox" />
 </a>
 
 <!-- <a href="https://github.com/uvipen/Super-mario-bros-PPO-pytorch/"> -->
