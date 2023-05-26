@@ -35,10 +35,10 @@ My name is Khanh Tuan. I am interested in the following Computer Vision.<br>
 <!--   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Flappy-bird-deep-Q-learning-pytorch&theme=onedark" /> -->
 <!-- </a>  -->
 
-<!-- <a href="https://github.com/uvipen/Tetris-deep-Q-learning-pytorch/"> -->
+<a href="https://github.com/tuan666chuoiht/Face-Recognition">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-<!--   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Tetris-deep-Q-learning-pytorch&theme=cobalt" /> -->
-<!-- </a> -->
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tuan666chuoiht&repo=Face-Recognition&theme=cobalt" />
+</a>
 
 <!-- <a href="https://github.com/uvipen/AirGesture/"> -->
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
